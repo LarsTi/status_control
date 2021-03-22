@@ -28,6 +28,11 @@ NEW_STATUS can be choosed by you, its a free field.
 
 /update?id=STATUS_{{n}}&pw=SECRET_{{n}}&status=NEW_STATUS
 
+## Webserver
+The Webserver is running on port 8080.
+
+Prometheus metrics can be queried at /metrics
+
 ## DEMO
 
 ### Environment
